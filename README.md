@@ -19,3 +19,7 @@
 
 ### 需要注意:  
 會有重複的歌曲在不同資料夾，需要自行排除!!  
+
+## Youtube
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=v=h1Z5WxDLtoo)
