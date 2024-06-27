@@ -5,7 +5,7 @@
 根據網站上每個歌曲的成績讀取  
 可以讀取的有:最佳分數、良數、可數、不可數、連打數、combo數、遊玩次數、過關次數、全接次數、全良次數  
 
-[檔案下載V1.01](https://drive.google.com/file/d/1ZzZzfAFOA7hN06zJacPqCgE0WumifCcE/view?usp=drive_link)  
+[檔案下載 單exe版 V1.01](https://drive.google.com/file/d/1ZzZzfAFOA7hN06zJacPqCgE0WumifCcE/view?usp=drive_link)  
 
 ## 使用方法:  
 
